@@ -1,0 +1,85 @@
+.bg-provincia {
+	background-color : #0072B8;
+}
+
+.bg-provincia-footer {
+	background-color : #464F58;
+}
+
+.footer-provincia {
+    padding: 10px 0px 0px 0px;
+    line-height: 20px;
+    font-size: 15px;
+    background: #2a2c2e;
+    color: #c7c7c7;
+}
+
+.custom, .menu {
+	display: inline-block;
+}
+
+.footer_separatore {
+	border-top: 1px solid #e2e2e2;
+	margin: 5px;
+}
+
+#portale_footer .menu li {
+    display: inline-block;
+    background-image: none;
+    position: relative;
+    padding: 0;
+    border-left: 1px solid #c7c7c7;
+    height: 20px;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+
+#portale_footer a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+#portale_footer a {
+    color: #c7c7c7;
+    text-decoration: none;
+}
+
+#portale_footer_mod {
+    padding-top: 20px;
+    padding-bottom: 00px;
+    background: #34373a;
+    color: #c7c7c7;
+}
+
+.icona_utente {
+	border-style: solid;
+	border-radius: 50%; 
+	height: 54px; 
+	padding: 20px 10px; 
+}
+
+.background_procedura  {
+	background-color: lightgray;
+}
+
+.icona_utente_logged {
+	color: limegreen; 
+	border-color: limegreen;
+}
+
+.icona_utente_nolog {
+	color: darkgrey; 
+	border-color: darkgrey;
+}
+
+.nome_utente {
+	margin-top: 34px!important;
+	line-height: 20px;
+}
+
+.webfly-event-spinner {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	background-color: cornflowerblue;
+}

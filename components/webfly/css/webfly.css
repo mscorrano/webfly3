@@ -1,0 +1,87 @@
+.webfly-canvas {
+	min-height: 500px;
+}
+
+.webfly-title {
+	border-bottom: 1px solid lightgray;
+	margin-bottom: 40px!important;
+	padding-bottom: 0px;
+}
+.webfly-menu {
+	border: 1px solid #0072B8;
+	border-radius: 5px;
+	display: block;
+	padding: 20px 15px 20px 15px;
+	background-color: #0072B8;
+	color: white;
+	white-space: nowrap;
+	box-shadow: 7px 10px 5px lightgray;
+}
+
+.webfly-debug-console {
+	float:right;
+	position:absolute;
+	top:-15px;
+	right:10px;
+	margin:auto;
+	width:600px;
+	background-color:rgba( 255, 255, 255, 0.7 );
+	border:3px solid black;
+	font-family:monospace;
+	font-size:12px;
+	padding:10px;
+	white-space:pre;
+	min-height: 300px;
+	z-index:3000;
+}
+
+.webfly-debug-fullscreen {
+	width:90%!important;
+}
+
+.webfly-console-title {
+	font-weight:bold;
+	font-size:14px;
+	margin-bottom: 5px;
+	cursor:pointer;
+}
+
+.webfly-console-body {
+	overflow:scroll;
+}
+
+.webfly-default-button {
+	outline: 4px solid gold;
+}
+
+.webfly-remote-event-managed {
+	cursor: pointer;
+}
+
+.nav .nav-item,
+.nav .nav-item-filler {
+	border-bottom: 1px solid lightgray;
+}
+
+.nav-link.active {
+	border-bottom: none !important;
+}
+
+.nav-tabs {
+	background-color: #0072B8;
+	padding-top	: 5px;
+}
+.webfly-nav-filler {
+	width: 20px;
+}
+
+.nav .nav-item .nav-link {
+	color: white;
+}
+.nav .nav-item .active {
+	color: black;
+}
+
+.modal-backdrop.show:nth-of-type(even) {
+    z-index: 1061 !important;
+}
