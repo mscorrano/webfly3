@@ -1,7 +1,5 @@
 <?php
-//$_FRWK["USERNAME"]  = "root";
-//$_FRWK["PASSWD"]    = "rfs-ZS!34ga!";
-	
+
 	// DATABASE ACCESS...
 	global $_FRWK;
 	$_FRWK["PARAMS"]["DATABASE"]["DB_SERVER"] 	= "XXXXXXXXXXX";
