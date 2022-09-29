@@ -1,0 +1,4 @@
+#DOCUMENTAZIONE: https://git-scm.com/docs/gitignore
+.gitignore
+/config
+/application
